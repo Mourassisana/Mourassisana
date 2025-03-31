@@ -1,19 +1,49 @@
 # Mourassisana | A.L.M.A. 🔮👩‍🚀🌟
 
-Boas-vindas ao meu GitHub! 👩‍💻✨
+**Boas-vindas ao meu GitHub!** 👩‍💻✨
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mourassisana"/></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+***
 
 ## Sobre mim
-
-Sou uma profissional multidisciplinar com mais de 16 anos de experiência em turismo, e também relevante experiência em marketing, inovação e tecnologia. Atualmente, estou me especializando em back-end, estudando Java e aprofundando meus conhecimentos em desenvolvimento através do programa ONE (Oracle Next Education), onde também executei projetos de front-end, estudando JavaScript, HTML5 e CSS3.
+<div align="justify">
+Sou uma profissional multidisciplinar com mais de 16 anos de experiência em turismo, e também relevante experiência em marketing, inovação e tecnologia. Atualmente, estou me especializando em back-end, estudando Java e aprofundando meus conhecimentos em desenvolvimento através do **Programa ONE (Oracle Next Education)** em parceira com a **Alura**, onde também executei projetos de front-end, estudando JavaScript, HTML5 e CSS3.
 
 Meus pronomes são ela/dela
 
 Além disso tudo, sou escritora, pesquisadora e entusiasta de Filosofia e Sociologia.
+</div>
+
+***
 
 ## O que você encontrará aqui?
 
 📌 **Projetos em Desenvolvimento:**
-
 - **Projeto Cassandra™** 🏴 - Uma iniciativa subversiva e inovadora voltada para tecnologia e sociedade.
 - **Universo Caosall** 🔮 - Uma comunidade que explora e desvenda Magia do Caos e seus mistérios.
 - **Amigo Secreto JS** 🎁 - Challenge do programa ONE utilizando JavaScript, HTML e CSS.
@@ -22,7 +52,7 @@ Além disso tudo, sou escritora, pesquisadora e entusiasta de Filosofia e Sociol
 ---
 
 📌 **Interesses Atuais:**
-- Desenvolvimento Web (HTML, CSS, JavaScript, Java)
+- Desenvolvimento Web (HTML5, CSS3, JavaScript, Java)
 - Front-end
 - Back-end
 - Git e GitHub
@@ -31,23 +61,6 @@ Além disso tudo, sou escritora, pesquisadora e entusiasta de Filosofia e Sociol
 - Filmes, séries e cozinhar 🍿🍝
 
 ---
-
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true)
-
-## GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mourassisana)
-
-## Badges:
-![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=SECRET,SSS,S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Conecte-se comigo 📬
 
@@ -64,58 +77,70 @@ Além disso tudo, sou escritora, pesquisadora e entusiasta de Filosofia e Sociol
 
 # Mourassisana | A.L.M.A. 🔮👩‍🚀🌟
 
-Welcome to my GitHub! 👩‍💻✨
+**Welcome to my GitHub!** 👩‍💻✨
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mourassisana"/></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+***
 
 ## About Me
+<div align="justify">
+I am a multidisciplinary professional with over 16 years of experience in tourism, along with significant expertise in marketing, innovation, and technology. Currently, I am specializing in back-end development, studying Java, and deepening my knowledge in development through the **ONE Program (Oracle Next Education)** in partnership with **Alura**, where I have also worked on front-end projects, learning JavaScript, HTML5, and CSS3.
 
-I am a multidisciplinary professional with over 16 years of experience in tourism, as well as significant expertise in marketing, innovation, and technology. I am currently specializing in back-end development, studying Java, and deepening my knowledge through the **ONE (Oracle Next Education)** program, where I also worked on front-end projects using JavaScript, HTML5, and CSS3.
+My pronouns are she/her.
 
-My pronouns are she/her/hers
+Besides all that, I am a writer, researcher, and philosophy and sociology enthusiast.
+</div>
 
-In addition to all of this, I am a writer, researcher, and enthusiast of Philosophy and Sociology.
+***
 
-
-## What You Will Find Here?
-
+## What will you find here?
 
 📌 **Ongoing Projects:**
 - **Projeto Cassandra™** 🏴 - A subversive and innovative initiative focused on technology and society.
-- **Universo Caosall** 🔮 - A community that explores and unveils the Magic of Chaos and its mysteries.
-- **Amigo Secreto JS** 🎁 - A challenge from the ONE program using JavaScript, HTML, and CSS.
+- **Universo Caosall** 🔮 - A community exploring and unveiling Chaos Magick and its mysteries.
+- **Secret Santa JS** 🎁 - A challenge from the ONE program using JavaScript, HTML, and CSS.
 - **Excepto Mi Mamá** 🌱 - My sustainable and authorial brand.
 
 ---
 
 📌 **Current Interests:**
-- Web Development (HTML, CSS, JavaScript, Java)
+- Web Development (HTML5, CSS3, JavaScript, Java)
 - Front-end
 - Back-end
 - Git and GitHub
 - Governance and ESG
-- Writing and Communication
-- Movies, Series, and Cooking 🍿🍝
+- Writing and communication
+- Movies, series, and cooking 🍿🍝
 
+---
 
+## Connect with Me 📬
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true)
-
-## GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mourassisana)
-
-## Badges:
-![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=SECRET,SSS,S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## Connect with me 📬
 🔗 [LinkedIn](https://br.linkedin.com/in/mourassisana)
 
 📜 [Portfolio](https://analigiamoura.journoportfolio.com/)
@@ -123,4 +148,4 @@ In addition to all of this, I am a writer, researcher, and enthusiast of Philoso
 📧 mourassisana@gmail.com
 
 
-> **Feel free to explore, contribute, and share ideas!** 🚀✨
+> **Feel free to explore, contribute, and exchange ideas!** 🚀✨
