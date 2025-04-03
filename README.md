@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true&theme=catppuccin_latte" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mourassisana&theme=catppuccin_latte"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mourassisana&theme=default"/>
 </div>
 
 ---
@@ -31,7 +31,10 @@
 
 ## Sobre mim
 <div align="justify">
-Sou uma profissional multidisciplinar com mais de 16 anos de experiência em turismo, e também relevante experiência em marketing, inovação e tecnologia. Atualmente, estou me especializando em back-end, estudando Java e aprofundando meus conhecimentos em desenvolvimento através do **Programa ONE (Oracle Next Education)** em parceira com a **Alura**, onde também executei projetos de front-end, estudando JavaScript, HTML5 e CSS3.
+  <p>
+    Sou uma profissional multidisciplinar com mais de 16 anos de experiência em turismo, e também relevante experiência em marketing, inovação e tecnologia. Atualmente, estou me especializando em back-end, estudando Java e aprofundando meus conhecimentos em desenvolvimento através do <strong>Programa ONE (Oracle Next Education)</strong> em parceira com a <strong>Alura</strong>, onde também executei projetos de front-end, estudando JavaScript, HTML5 e CSS3.
+  </p>
+</div>
 
 Meus pronomes são ela/dela
 
@@ -89,7 +92,7 @@ Além disso tudo, sou escritora, pesquisadora e entusiasta de Filosofia e Sociol
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true&theme=catppuccin_latte" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mourassisana&theme=xcode"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mourassisana&theme=default"/>
 </div>
 
 ---
@@ -107,7 +110,10 @@ Além disso tudo, sou escritora, pesquisadora e entusiasta de Filosofia e Sociol
 
 ## About Me
 <div align="justify">
-I am a multidisciplinary professional with over 16 years of experience in tourism, along with significant expertise in marketing, innovation, and technology. Currently, I am specializing in back-end development, studying Java, and deepening my knowledge in development through the **ONE Program (Oracle Next Education)** in partnership with **Alura**, where I have also worked on front-end projects, learning JavaScript, HTML5, and CSS3.
+  <p>
+    I am a multidisciplinary professional with over 16 years of experience in tourism, along with significant expertise in marketing, innovation, and technology. Currently, I am specializing in back-end development, studying Java, and deepening my knowledge in development through the <strong>ONE Program (Oracle Next Education)</strong> in partnership with <strong>Alura</strong>, where I have also worked on front-end projects, learning JavaScript, HTML5, and CSS3.
+  </p>
+</div>
 
 My pronouns are she/her.
 
