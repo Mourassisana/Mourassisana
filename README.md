@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-bg=true&theme=catppuccin_latte" />
 </div>
 
 <br>
@@ -81,17 +81,16 @@ Além disso tudo, sou escritora, pesquisadora e entusiasta de Filosofia e Sociol
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mourassisana&rank=S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&no-bg=true&theme=catppuccin_latte" />
 </div>
 
 <br>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mourassisana"/></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mourassisana&show_icons=true&count_private=true&hide_title=true&theme=catppuccin_latte" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mourassisana&theme=xcode"/>
+</div>
 
 ---
 
