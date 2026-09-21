@@ -12,23 +12,6 @@
 
 ***
 
-
----
-
-### 💻 Tech Stack & Lab Ambiente
-<div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <br>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-
-***
-
 ## Sobre mim
 <div align="justify">
   <p>
