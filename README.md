@@ -1,16 +1,17 @@
 # Mourassisana | A.L.M.A. 🔮👩‍🚀🌟
 
 **Boas-vindas ao meu GitHub!** 👩‍💻✨
-<br>
 
-<div align="center">
-  <!-- Firulinha: Gerador de Citações Dinâmicas (Místico/Tech) -->
-  <img src="https://quotable.io" alt="Citação do Dia" />
-  <br><br>
+---
 
-  <!-- Estatísticas com o Tema Radical (Roxo e Neon) -->
-  <img src="https://vercel.app" />
-</div>
+### 💻 Tech Stack & Lab Ambiente
+
+*   **Linguagens:** `Python 3` 🐍 | `Java` ☕ | `JavaScript` ⚡ | `HTML5 / CSS3` 🌐
+*   **Banco de Dados:** `PostgreSQL` 🐘 | `SQL` 📊
+*   **Infraestrutura & Ferramentas:** `Linux Xubuntu` 🐧 | `Docker` 🐳 | `Git & GitHub` 🐙
+
+***
+
 
 ---
 
